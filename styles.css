@@ -1,0 +1,52 @@
+body{
+  background-color: #7F8C8D;
+}
+.container{
+  max-width: 600px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #7F8C8D;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+.btn{
+  background: #F39C12;
+  color: #566573;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn-focus{
+  outline: none !important;
+}
+.username{
+  font-weight: bold;
+}
+.time{
+  font-size: 0.7em;
+  font-family: 'Lobster', cursive;
+  color: #7F8C8D;
+}
+.update-mssg{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  margin: 20px auto;
+  font-size: 0.9em;
+}
+.list-group-item{
+  background-color: #FAD7A0;
+}
+.alert-warning{
+  border-radius: 2px;
+  background-color:#FAD7A0 !important;
+  color:#000 !important;  
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #7F8C8D;
+  color: #000;
+  text-align: center;
+}
